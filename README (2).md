@@ -135,7 +135,7 @@ neural-network-virtual-sensors/
 └── hw_main_1.py
 ```
 
-The script additionally expects the input file `Data2026.csv` alongside it. The dataset is **not provided with this README**. Do not publish the raw measurements unless you have permission to share them.
+The script additionally expects the input file `Data2026.csv` alongside it. The dataset is **not provided with this README**.
 
 ## Installation and execution
 
