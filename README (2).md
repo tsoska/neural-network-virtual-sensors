@@ -60,8 +60,6 @@ The script loads `Data2026.csv` as a **tab-separated** file, skips its second ro
 - Applies a sequential upper-outlier filter to each measured variable, removing rows with values above **three times that variable's current mean**.
 - Groups records by rounded rotational-speed bins (`rpm_group`, in increments of 100 RPM).
 
-**Important:** These filtering rules reflect the original assignment's implementation. Whether they are appropriate for another dataset should be checked separately; for example, zero EGR command may be physically valid.
-
 ### 2. Input features
 
 The baseline feature set is assembled from these columns:
