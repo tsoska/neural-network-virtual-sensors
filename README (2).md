@@ -165,8 +165,6 @@ The script writes several artifacts to the **current working directory**, includ
 - Predicted-versus-actual plots in scaled and original units (PNG).
 - SHAP bar and beeswarm plots for the selected final models (PNG).
 
-It also creates `data.csv` and `data_sorted.csv` beside the Python file as processed versions of the source data. These processed files can still contain sensitive underlying measurements and should **not** be committed publicly without permission.
-
 ### Selected results
 
 Numerical performance values and figures are intentionally omitted here because they **cannot be verified from the source code alone**. Once an authorised run has been completed, representative plots and a small table of held-out evaluation metrics can be added to this section.
