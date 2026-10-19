@@ -2,7 +2,7 @@
 
 A Python/PyTorch project investigating **data-driven virtual sensors** for predicting **nitrogen oxide (NOx) emissions** and **fuel consumption** from engine operating measurements. The project combines exploratory data analysis, data cleaning, feature engineering, feed-forward neural networks, hyperparameter sweeps, and SHAP-based interpretation.
 
-The implementation was developed as an academic engineering assignment. This repository demonstrates the modelling workflow; it is **not** a production-ready or experimentally certified engine sensor.
+The implementation was developed as an academic engineering assignment.
 
 ## Project overview
 
