@@ -165,10 +165,6 @@ The script writes several artifacts to the **current working directory**, includ
 - Predicted-versus-actual plots in scaled and original units (PNG).
 - SHAP bar and beeswarm plots for the selected final models (PNG).
 
-### Selected results
-
-Numerical performance values and figures are intentionally omitted here because they **cannot be verified from the source code alone**. Once an authorised run has been completed, representative plots and a small table of held-out evaluation metrics can be added to this section.
-
 ## Scope and limitations
 
 - The project implements a supervised-regression workflow for **NOx and fuel consumption**, not a full engine physics model.
