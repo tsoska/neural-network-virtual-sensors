@@ -13,6 +13,17 @@ The aim is to approximate relationships between measured engine operating variab
 
 The models are conventional **fully connected multilayer perceptrons (MLPs)**, not recurrent or time-series models. The `Time` field is not used as an input feature.
 
+## Dataset Availability
+
+The project uses an engine operational dataset
+(Data2026.csv), which is not included in this repository.
+
+The source code, preprocessing methodology, model
+architectures, and evaluation procedures are provided
+for reference.
+
+Running the full pipeline requires the original dataset.
+
 ## Workflow
 
 ```text
